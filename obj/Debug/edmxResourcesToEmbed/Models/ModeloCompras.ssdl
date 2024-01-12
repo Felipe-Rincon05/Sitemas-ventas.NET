@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel4.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="compras">
+    <Key>
+      <PropertyRef Name="Id_compras" />
+    </Key>
+    <Property Name="Id_compras" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="num_serie" Type="bigint" />
+    <Property Name="fecha_compra" Type="date" />
+    <Property Name="monto" Type="float" />
+    <Property Name="id_e" Type="bigint" />
+    <Property Name="id_p" Type="bigint" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasModel4StoreContainer">
+    <EntitySet Name="compras" EntityType="Self.compras" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

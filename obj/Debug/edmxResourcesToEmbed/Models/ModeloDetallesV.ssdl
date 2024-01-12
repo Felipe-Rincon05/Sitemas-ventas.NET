@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel7.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="detalles_ventas">
+    <Key>
+      <PropertyRef Name="id_detven" />
+    </Key>
+    <Property Name="id_detven" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cantidad" Type="bigint" />
+    <Property Name="precio_venta" Type="float" />
+    <Property Name="id_ventas" Type="bigint" />
+    <Property Name="id_producto" Type="bigint" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasModel7StoreContainer">
+    <EntitySet Name="detalles_ventas" EntityType="Self.detalles_ventas" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

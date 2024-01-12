@@ -1,0 +1,74 @@
+﻿@model List<PROYECTO_WEB.Models.proveedores>
+@{
+    ViewBag.Title = "ReporteCPProveedores";
+}
+
+<h2 style="color:white;">Proveedores</h2>
+
+@using (Html.BeginForm("ReporteCPProveedores_Click", "ReportesCP", FormMethod.Post))
+{
+    <div class="form-group">
+        <label style="color:white;">Datos del proveedor</label>
+    </div>
+    <div class="form-group d-flex justify-content-between">
+        <div class="col-sm-6 d-flex">
+            @Html.TextBox("nombre_prov", null, new { @class = "form-control", @placeholder = "Nombre", @autocomplete = "off" })
+            <button style="border-color: transparent; --bs-btn-hover-bg: #1F618D; --bs-btn-color: #1F618D;" onclick="" type="submit" name="btn_enviar" value="Buscar Cliente" class="btn btn-outline-light"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+    </div>
+}
+
+<table class="table table-dark table-sm align-middle">
+    <tr class="text-center">
+        <th>
+            ID PROVEEDORES
+        </th>
+        <th>
+            NOMBRE
+        </th>
+        <th>
+            TELEFONO
+        </th>
+        <th>
+            DIRECCIÓN
+        </th>
+        <th></th>
+    </tr>
+
+    @{
+        if (Model.Count() != 0 || Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <tr class="text-center">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id_proveedores)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.telefono)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.direccion)
+                    </td>
+                </tr>
+            }
+        }
+    }
+</table>
+
+<hr style="background-color:white;">
+<div style="padding:10px; color: white; text-decoration: none;">
+    <a href="@Url.Action("VistaReporteProveedores", "ReportesCP", new { id = "pdf" })" class="btn btn-danger" style="border-color: transparent;">
+        Reporte PDF
+    </a>
+    <a href="@Url.Action("VistaReporteProveedores", "ReportesCP", new { id = "Excel" })" class="btn btn-success" style="border-color: transparent;">
+        Reporte EXCEL
+    </a>
+    <a href="@Url.Action("VistaReporteProveedores", "ReportesCP", new { id = "Word" })" class="btn btn-primary" style="border-color: transparent;">
+        Reporte WORD
+    </a>
+</div>
+

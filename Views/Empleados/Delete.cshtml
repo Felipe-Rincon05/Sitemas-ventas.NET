@@ -1,0 +1,74 @@
+﻿@model PROYECTO_WEB.Models.empleado
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2 style="color: white">ELIMINAR EMPLEADO</h2>
+
+<h5 style="color:dimgrey">¿Quieres ELIMINAR este empleado?</h5>
+<div style="color:white">
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Contraseña
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contrasena)
+        </dd>
+
+        <dt>
+            Nombre
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            Correo
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.correo)
+        </dd>
+
+        <dt>
+            Telefono
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.telefono)
+        </dd>
+
+        <dt>
+            Estado
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.estado_e)
+        </dd>
+
+        <dt>
+            Usuario
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.usuario)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <input type="submit" value="ELIMINAR" class="btn btn-danger" style="border-color: transparent;" />
+    }
+</div>
+<br />
+<br />
+<p class="btn btn-outline-primary">
+    <a href="@Url.Action("Index")" class="btn btn-link" style="text-decoration: none; color: inherit;">Volver</a>
+</p>

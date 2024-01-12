@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bases_ventasModel3StoreContainer" CdmEntityContainer="bases_ventasProveedores">
+    <EntitySetMapping Name="proveedores">
+      <EntityTypeMapping TypeName="bases_ventasModel3.proveedores">
+        <MappingFragment StoreEntitySet="proveedores">
+          <ScalarProperty Name="Id_proveedores" ColumnName="Id_proveedores" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

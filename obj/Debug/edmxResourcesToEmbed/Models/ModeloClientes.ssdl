@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cliente">
+    <Key>
+      <PropertyRef Name="id_c" />
+    </Key>
+    <Property Name="id_c" Type="bigint" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="244" />
+    <Property Name="correo" Type="varchar" MaxLength="244" />
+    <Property Name="direccion" Type="varchar" MaxLength="244" />
+    <Property Name="estado_c" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasModelStoreContainer">
+    <EntitySet Name="cliente" EntityType="Self.cliente" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

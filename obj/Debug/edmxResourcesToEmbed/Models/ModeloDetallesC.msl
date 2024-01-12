@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bases_ventasModel6StoreContainer" CdmEntityContainer="bases_ventasDetallesC">
+    <EntitySetMapping Name="detalles_compras">
+      <EntityTypeMapping TypeName="bases_ventasModel6.detalles_compras">
+        <MappingFragment StoreEntitySet="detalles_compras">
+          <ScalarProperty Name="Id_detcom" ColumnName="Id_detcom" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="precio_compra" ColumnName="precio_compra" />
+          <ScalarProperty Name="id_compra" ColumnName="id_compra" />
+          <ScalarProperty Name="id_producto" ColumnName="id_producto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

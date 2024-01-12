@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel7" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="detalles_ventas">
+    <Key>
+      <PropertyRef Name="id_detven" />
+    </Key>
+    <Property Name="id_detven" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cantidad" Type="Int64" />
+    <Property Name="precio_venta" Type="Double" />
+    <Property Name="id_ventas" Type="Int64" />
+    <Property Name="id_producto" Type="Int64" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasDetallesV" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="detalles_ventas" EntityType="Self.detalles_ventas" />
+  </EntityContainer>
+</Schema>

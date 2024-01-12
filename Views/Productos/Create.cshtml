@@ -1,0 +1,64 @@
+﻿@model PROYECTO_WEB.Models.producto
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 style="color:white">AGREGAR PRODUCTO</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.id_producto, "Identificación producto", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.id_producto, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF; " } })
+                @Html.ValidationMessageFor(model => model.id_producto, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.nombre, "Nombre", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF; " } })
+                @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.precio, "Precio", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.precio, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF; " } })
+                @Html.ValidationMessageFor(model => model.precio, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.stock, "Existencias", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.stock, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF; " } })
+                @Html.ValidationMessageFor(model => model.stock, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.estado, "Estado", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.estado, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF" } })
+                    @Html.ValidationMessageFor(model => model.estado, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <input type="submit" value="Agregar" class="btn btn-success" style="border-color: transparent;" />
+    </div>
+}
+<br />
+<p class="btn btn-outline-primary">
+    <a href="@Url.Action("Index")" class="btn btn-link" style="text-decoration: none; color: inherit;">Volver</a>
+</p>

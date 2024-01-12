@@ -1,0 +1,64 @@
+﻿@model PROYECTO_WEB.Models.cliente
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 style="color:white">AGREGAR CLIENTE</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.id_c, "Identificación", new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.id_c, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF; " } })
+            @Html.ValidationMessageFor(model => model.id_c, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.nombre, "Nombre", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent;" } })
+                @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.correo, "Correo", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.correo, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; input:-internal-autofill-selected:#1F618D" } })
+                @Html.ValidationMessageFor(model => model.correo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.direccion, "Dirección", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.direccion, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent;" } })
+                @Html.ValidationMessageFor(model => model.direccion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.estado_c, "Estado", htmlAttributes: new { @class = "control-label col-md-2", style = "color:#FFFFFF;" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.estado_c, new { htmlAttributes = new { @class = "form-control", style = " background-color: #1F618D; border-color: transparent; color:#FFFFFF" } })
+                    @Html.ValidationMessageFor(model => model.estado_c, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <input type="submit" value="Agregar" class="btn btn-success" style="border-color: transparent;" />
+    </div>
+}
+<br />
+<p class="btn btn-outline-primary">
+    <a href="@Url.Action("Index")" class="btn btn-link" style="text-decoration: none; color: inherit;">Volver</a>
+</p>

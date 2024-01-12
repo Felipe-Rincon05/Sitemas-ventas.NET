@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="empleado">
+    <Key>
+      <PropertyRef Name="id_e" />
+    </Key>
+    <Property Name="id_e" Type="Int64" Nullable="false" />
+    <Property Name="contrasena" Type="String" MaxLength="244" FixedLength="false" Unicode="false" />
+    <Property Name="nombre" Type="String" MaxLength="244" FixedLength="false" Unicode="false" />
+    <Property Name="correo" Type="String" MaxLength="244" FixedLength="false" Unicode="false" />
+    <Property Name="telefono" Type="String" MaxLength="244" FixedLength="false" Unicode="false" />
+    <Property Name="estado_e" Type="Boolean" />
+    <Property Name="usuario" Type="String" MaxLength="8" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="empleado" EntityType="Self.empleado" />
+  </EntityContainer>
+</Schema>

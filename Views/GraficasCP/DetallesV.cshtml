@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "DetallesV";
+    List<SelectListItem> lista_d = new List<SelectListItem>();
+    List<SelectListItem> lista_t = new List<SelectListItem>();
+    lista_d = (List<SelectListItem>)ViewBag.ListaDetV;
+    lista_t = (List<SelectListItem>)ViewBag.Tipo;
+}
+
+<h2 style="color:white;">Detalles ventas</h2>
+
+<div class="d-flex">
+    <div class="col-sm-5 p-1 parte01">
+        <div class="card bg-dark" style="border-color:transparent">
+            <div class="card-body" style="color:white">
+                @using (Html.BeginForm("VistaGraficaDetallesV", "GraficasCP", FormMethod.Post))
+                {
+                    <!-- -->
+                    <div class="form-group d-flex justify-content-between">
+                        <div class="col-sm-5 ms-auto" style="padding-right:10px;">
+                            <div class="form-group">
+                                <label>Titulo</label>
+                            </div>
+                            @Html.TextBox("titulo", null, new { @class = "form-control", @placeholder = "Nombre grafica", @autocomplete = "off" })
+                        </div>
+                        <div class="col-sm-5 ms-auto" style="padding-right:10px;">
+                            <div class="form-group">
+                                <label>Parametro del eje x</label>
+                            </div>
+                            @Html.DropDownList("eje_x", lista_d, new { @class = "form-control", @placeholder = "Eje x", @autocomplete = "off" })
+                        </div>
+                        <div class="col-sm-5 ms-auto" style="padding-right:10px;">
+                            <div class="form-group">
+                                <label>Parametro del eje y</label>
+                            </div>
+                            @Html.DropDownList("eje_y", lista_d, new { @class = "form-control", @placeholder = "Eje x", @autocomplete = "off" })
+                        </div>
+                        <div class="col-sm-5 ms-auto" style="padding-right:10px;">
+                            <div class="form-group">
+                                <label>Tipo de grafica</label>
+                            </div>
+                            @Html.DropDownList("tipo", lista_t, new { @class = "form-control", @placeholder = "tipo", @autocomplete = "off" })
+                        </div>
+                        <div class="col-sm-5 ms-auto">
+                            <div class="form-group"><label></label></div>
+                            <button id="boton" class="btn btn-primary" style="border-color: transparent;" onclick="" type="submit" name="btn_enviar" value="Buscar Cliente">Generar grafica</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@{
+    if (Session["flag_detv"].ToString() != "")
+    {
+        <center>
+            <img src="data:image/png;base64,@Session["imagen"].ToString()" />
+        </center>
+
+    }
+}
+

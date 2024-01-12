@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bases_ventasModel5StoreContainer" CdmEntityContainer="bases_ventasVentas">
+    <EntitySetMapping Name="ventas">
+      <EntityTypeMapping TypeName="bases_ventasModel5.ventas">
+        <MappingFragment StoreEntitySet="ventas">
+          <ScalarProperty Name="id_ventas" ColumnName="id_ventas" />
+          <ScalarProperty Name="numero_serie" ColumnName="numero_serie" />
+          <ScalarProperty Name="fecha_venta" ColumnName="fecha_venta" />
+          <ScalarProperty Name="monto" ColumnName="monto" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="id_c" ColumnName="id_c" />
+          <ScalarProperty Name="id_e" ColumnName="id_e" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

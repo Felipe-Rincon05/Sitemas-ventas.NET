@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel6" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="detalles_compras">
+    <Key>
+      <PropertyRef Name="Id_detcom" />
+    </Key>
+    <Property Name="Id_detcom" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cantidad" Type="Int64" />
+    <Property Name="precio_compra" Type="Double" />
+    <Property Name="id_compra" Type="Int64" />
+    <Property Name="id_producto" Type="Int64" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasDetallesC" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="detalles_compras" EntityType="Self.detalles_compras" />
+  </EntityContainer>
+</Schema>

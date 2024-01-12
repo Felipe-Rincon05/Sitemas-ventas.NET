@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bases_ventasModel4" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="compras">
+    <Key>
+      <PropertyRef Name="Id_compras" />
+    </Key>
+    <Property Name="Id_compras" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="num_serie" Type="Int64" />
+    <Property Name="fecha_compra" Type="DateTime" Precision="0" />
+    <Property Name="monto" Type="Double" />
+    <Property Name="id_e" Type="Int64" />
+    <Property Name="id_p" Type="Int64" />
+  </EntityType>
+  <EntityContainer Name="bases_ventasCompras" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="compras" EntityType="Self.compras" />
+  </EntityContainer>
+</Schema>

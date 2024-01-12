@@ -1,0 +1,771 @@
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\csc.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\csc.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\csc.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\csi.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\csi.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\csi.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Console.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\vbc.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\vbc.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Helpers.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Mvc.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Optimization.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Razor.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.WebPages.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\WebGrease.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Helpers.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Mvc.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Optimization.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.Razor.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.WebPages.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\EntityFramework.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\EntityFramework.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe.config
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.rsp
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe.config
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.rsp
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Console.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.rsp
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\WebGrease.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+D:\Daniel\U\Sexto semestre\Web\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe.config
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.rsp
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe.config
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.rsp
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Console.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.rsp
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\WebGrease.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+C:\Users\Estudiante\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Console.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\WebGrease.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe.config
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.rsp
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe.config
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.rsp
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Console.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.rsp
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\WebGrease.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+D:\Downloads\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe.config
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.rsp
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe.config
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.rsp
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Console.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.rsp
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\WebGrease.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+C:\Users\danie\Downloads\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csc.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\csi.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.AppContext.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Console.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Http.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.ValueTuple.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\vbc.rsp
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\WebGrease.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EntityFramework.SqlServer.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Helpers.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Mvc.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Optimization.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.Razor.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Web.WebPages.Razor.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Newtonsoft.Json.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Antlr3.Runtime.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Helpers.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Mvc.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.Razor.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.AssemblyReference.cache
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CoreCompileInputs.cache
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.csproj.CopyComplete
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\obj\Debug\PROYECTO_WEB.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.Common.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.Design.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.SqlServer.Types.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\EnvDTE.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\stdole.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Azure.Core.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Azure.Identity.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Data.SqlClient.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Identity.Client.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Logging.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Buffers.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Configuration.ConfigurationManager.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Memory.Data.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Memory.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Numerics.Vectors.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.AccessControl.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.Permissions.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.Principal.Windows.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Text.Encodings.Web.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Text.Json.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Threading.Tasks.Extensions.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.ValueTuple.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Azure.Core.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Azure.Identity.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Data.SqlClient.pdb
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Data.SqlClient.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Identity.Client.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Logging.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Buffers.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Configuration.ConfigurationManager.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Memory.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Memory.Data.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Numerics.Vectors.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.AccessControl.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.Cryptography.ProtectedData.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.Permissions.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Security.Principal.Windows.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Text.Encodings.Web.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Text.Json.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.Threading.Tasks.Extensions.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\System.ValueTuple.xml
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\TRABAJOS UNIVERSIDAD\SEXTO SEMESTRE\PROGRAMACION WEB\PROYECTO WEB\ProyectoFinal\PROYECTO_WEB\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
